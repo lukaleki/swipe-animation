@@ -79,19 +79,19 @@ body {
 
 .little-card:nth-child(3) {
     transform: rotate(-3deg);
-    background-image: url(/cats-little/cat2.jpg);
+    background-image: url(./cats-little/cat2.jpg);
     background-size: cover;
 }
 
 .little-card:nth-child(5) {
     transform: translateX(-5%) rotate(5deg);
-    background-image: url(/cats-little/cat3.jpg);
+    background-image: url(./cats-little/cat3.jpg);
     background-size: cover;
 }
 
 .little-card:nth-child(7) {
     transform: translateX(8%) rotate(5deg);
-    background-image: url(/cats-little/cat4.jpg);
+    background-image: url(./cats-little/cat4.jpg);
     background-size: cover;
 }
 
